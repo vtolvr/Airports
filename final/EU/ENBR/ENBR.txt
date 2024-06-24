@@ -238,7 +238,7 @@ entrypoints =
 
 Airlines =
 	SAS, 2, A319/A320/A20N/B737/B738/CRJ9, Scandinavian, nswe
-	NOZ, 2, B738/B38M/B737, Norseman, nswe
+	NOZ, 2, B738/B38M/B737, Nordic, nswe
 	DLH, 1, CRJ7/CRJ9/E190/E195, Lufthansa, s
 	BTI, 1, BCS3, Air Baltic, s
 	FIN, 2, AT72, Finnar, s
